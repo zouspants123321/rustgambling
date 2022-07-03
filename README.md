@@ -14,6 +14,8 @@ to your own email you want to recieve the support emails.
 
 4. npm install in the cmd prompt to install the essential node packages.
 
+5. Setup mysql and upload the sql file
+
 5. Now you should be ready to launch the website!
 
 
