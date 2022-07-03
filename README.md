@@ -17,6 +17,7 @@ to your own email you want to recieve the support emails.
 
 6. Now you should be ready to launch the website!
 
+Used: visual studio to create this website
 
 OBS* this website probably have a lot of bugs, and bad strucured code. Use on own risk.
 
